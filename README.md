@@ -1,8 +1,7 @@
 # Windows 11 in Svelte
 
-[![Follow me on GitHub](https://img.shields.io/github/followers/yashash-pugalia?label=Follow%20Me&style=social)](https://github.com/yashash-pugalia)
-[![Star this Project](https://img.shields.io/github/stars/yashash-pugalia/win11-svelte?label=Star%20This%20Project&style=social)](#start-of-content)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yashash_pugalia?style=social)](https://twitter.com/yashash_pugalia)
+[![Follow me on GitHub](https://img.shields.io/github/followers/viotemis?label=Follow%20Me&style=social)](https://github.com/viotemis)
+[![Star this Project](https://img.shields.io/github/stars/viotemis/win11-svelte?label=Star%20This%20Project&style=social)](#start-of-content)
 
 This open source project is made in the hope to replicate the Windows 11 desktop experience on web.
 
@@ -20,8 +19,6 @@ This open source project is made in the hope to replicate the Windows 11 desktop
 - [x] Resize windows
 - [x] Dark mode
 - [x] Responsiveness
-
-📑 [Suggest More](https://github.com/yashash-pugalia/win11-svelte/issues/new)
 
 ## 📚 Tech Stack
 
