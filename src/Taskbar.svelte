@@ -110,12 +110,12 @@
       class="taskIcon hvrBgLight"
       on:click={() =>
         window.open(
-          "https://github.com/yashash-pugalia/win11-svelte",
+          "https://github.com/viotemis/win11-svelte",
           "_blank"
         )}
       on:keypress={() =>
         window.open(
-          "https://github.com/yashash-pugalia/win11-svelte",
+          "https://github.com/viotemis/win11-svelte",
           "_blank"
         )}
     >

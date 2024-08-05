@@ -35,19 +35,14 @@
     {
       title: "GitHub",
       image: "https://github.com/favicon.ico",
-      link: "https://github.com/yashash-pugalia",
+      link: "https://github.com/viotemis",
       external: true,
     },
     {
       title: "Gmail",
       image: "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico",
-      link: "mailto:yashash1511@gmail.com",
+      link: "mailto:justindanner96@gmail.com",
       external: true,
-    },
-    {
-      title: "Yashash",
-      image: "https://yashash.dev/favicon.webp",
-      link: "https://yashash.dev",
     },
   ];
 </script>

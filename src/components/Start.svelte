@@ -116,7 +116,7 @@
           width="32"
           alt=""
         />
-        Yashash
+        Viotemis
       </div>
       <svelte:fragment slot="flyout">
         <MenuFlyoutItem>

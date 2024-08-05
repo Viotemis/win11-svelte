@@ -143,7 +143,7 @@
                     width="90"
                   />
                   <div>
-                    <p>YASHASH</p>
+                    <p>Viotemis</p>
                     <p>Local Account</p>
                     <p>Administrator</p>
                   </div>
@@ -195,7 +195,7 @@
             width="60"
           />
           <div>
-            <p>Yashash</p>
+            <p>Viotemis</p>
             <p>Local Account</p>
           </div>
         </div>
